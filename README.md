@@ -1,6 +1,6 @@
 # Homebrew Tap for Wribe
 
-[Wribe](https://github.com/chhoumann/wribe) is an AI-powered local audio transcription app for macOS.
+[Wribe](https://wribe.app) is an AI-powered local audio transcription app for macOS.
 
 ## Installation
 

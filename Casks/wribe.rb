@@ -5,7 +5,7 @@ cask "wribe" do
   url "https://github.com/chhoumann/wribe/releases/download/v#{version}/Wribe-#{version}.zip"
   name "Wribe"
   desc "AI-powered local audio transcription for macOS"
-  homepage "https://github.com/chhoumann/wribe"
+  homepage "https://wribe.app"
 
   livecheck do
     url :url
