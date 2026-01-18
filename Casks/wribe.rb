@@ -1,8 +1,8 @@
 cask "wribe" do
-  version "1.0.1"
-  sha256 "f62b7a88884b62275755860f95a8d8163853dc7cc8d633b98d96404e7ef504e1"
+  version "1.0.2"
+  sha256 "f3d0f61634a084530af713292e37a23ed3b409a8bd2b9372314242d8ef78c6e1"
 
-  url "https://wribe.app/releases/Wribe-#{version}.zip"
+  url "https://releases.wribe.app/Wribe-#{version}.zip"
   name "Wribe"
   desc "AI-powered local audio transcription for macOS"
   homepage "https://wribe.app"
