@@ -1,6 +1,6 @@
 cask "wribe" do
-  version "1.0.12"
-  sha256 "508121a501710d59efe62ad2208d0b478e18f4d3b61e9d630a52078a5a70edfa"
+  version "1.0.13"
+  sha256 "f57ebb72082382568032bb5dc6fbfaf481a3c27febcb13d803f40d45e0a17420"
 
   url "https://releases.wribe.app/Wribe-#{version}.zip"
   name "Wribe"
