@@ -11,10 +11,10 @@ brew install --cask wribe
 
 ## Why a custom tap?
 
-Wribe is currently distributed as a non-notarized macOS app. This tap exists to make installation and updates via Homebrew easy:
+Wribe is distributed as a Developer ID signed + notarized macOS app. This tap exists to make installation and updates via Homebrew easy:
 
 - One-liner installation
-- Automatically handles the macOS first‑launch warning for non‑notarized apps (clears the “downloaded from the internet” flag)
+- Removes the macOS quarantine flag as a safety step (notarized builds should open normally)
 - Easy updates via `brew upgrade`
 
 ## Updating
