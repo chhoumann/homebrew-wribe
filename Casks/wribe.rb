@@ -1,11 +1,11 @@
 cask "wribe" do
-  version "1.3.3"
-  sha256 "ab8b0af9d963d8bb71864208cbec1eac6241b449f2f477fe8bd752f48dfe4e01"
+  version "1.3.4"
+  sha256 "6861979d44448d4590ee877083b581d189107e42247c8fc3571ca9fac1f9f534"
 
-  url "https://releases.wribe.app/Wribe-#{version}.zip"
+  url "https://wribe-releases.bagerbach.com/Wribe-#{version}.zip"
   name "Wribe"
   desc "AI-powered local audio transcription for macOS"
-  homepage "https://wribe.app"
+  homepage "https://wribe.bagerbach.com"
 
   livecheck do
     url "https://github.com/chhoumann/wribe/releases/latest"
